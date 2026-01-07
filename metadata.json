@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Number Guessing Game",
+  "description": "A stylish number guessing game where the Gemini AI provides hints and commentary based on your guesses. Features a mandatory API key validation process.",
+  "requestFramePermissions": []
+}
