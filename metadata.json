@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Number Guessing Game",
-  "description": "A stylish number guessing game where the Gemini AI provides hints and commentary based on your guesses. Features a mandatory API key validation process.",
+  "name": "제미나이 숫자 맞추기 게임",
+  "description": "제미나이 AI가 힌트와 코멘트를 제공하는 스타일리시한 숫자 맞추기 게임입니다. API 키 유효성 검사 프로세스가 포함되어 있습니다.",
   "requestFramePermissions": []
 }
